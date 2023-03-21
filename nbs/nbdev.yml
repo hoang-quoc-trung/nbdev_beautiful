@@ -1,9 +1,0 @@
-project:
-  output-dir: docs
-
-website:
-  title: "nbdev_beautiful"
-  site-url: "https://hoangtrung020541.github.io/nbdev_beautiful"
-  description: "This is a basic tutorial on how to use nbdev to create beautiful web pages"
-  repo-branch: main
-  repo-url: "https://github.com/hoangtrung020541/nbdev_beautiful"
