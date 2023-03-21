@@ -10,3 +10,14 @@ website:
       - 05_create_page.ipynb
       - 06_beautiful_page.ipynb
       - 07_test.ipynb
+      - section: docs
+        contents:
+          - docs/index.html
+          - docs/00_card_overview.html
+          - docs/01_card.html
+          - docs/02_desk.html
+          - docs/03_how_to_use_nbdev.html
+          - docs/04_directives.html
+          - docs/05_create_page.html
+          - docs/06_beautiful_page.html
+          - docs/07_test.html
