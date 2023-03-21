@@ -50,6 +50,7 @@ Activate github pages in your repo.
 ```
 ![active github pages](assets/active_github_pages.png)
 
+
 ## Usage
 - For all the commands, please refer to the [nbdev documentation](https://nbdev.fast.ai/).
 - For this repo, all the exported documents are stored in the **docs** folder. Your notebooks which are used to generate the documents are stored in the **nbs** folder.
