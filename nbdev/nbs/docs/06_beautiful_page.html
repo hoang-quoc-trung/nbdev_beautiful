@@ -515,6 +515,9 @@ Tip
 <span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a>    css: styles.css</span>
 <span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a>    toc: true</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
+<ul>
+<li>Quarto cung cấp 25 themes có sẵn từ <a class="link" href="https://bootswatch.com/"> Bootswatch</a></li>
+</ul>
 <p><br>
 </p>
 <p><strong>Tìm hiểu thêm tại</strong> <a class="link" href="https://quarto.org/docs/websites/website-navigation.html">Quarto - Website Navigation</a> 😁 💨</p>
@@ -547,23 +550,25 @@ Note
 <pre><code>Test 1 sử dụng markdown.
 Test 2 sử dụng html.
 Đối với Test 3 hơi phức tạp, liên quan đến cả html và css nên cần phải sử dụng 
-file `styles.css` trong folder `nbs`. Cụ thể chúng ta sẽ tạo `class="link"` ở 
-đây, sau đó sẽ set các thuộc tính của class link tại file css như sau:</code></pre>
+file `styles.css` trong folder `nbs`. Cụ thể chúng ta sẽ tạo `class="link-hover"` ở 
+đây, sau đó sẽ set các thuộc tính của class link-hover tại file css như sau:</code></pre>
 </div>
 </div>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>.link{</span>
-<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>    color: <span class="co">#73D0FF;</span></span>
+<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>.link<span class="op">-</span>hover{</span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>    color: <span class="co">#F0266F;</span></span>
 <span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>    text<span class="op">-</span>decoration: none<span class="op">;</span></span>
 <span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a>}</span>
-<span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a>.link:hover{</span>
-<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a>    color: <span class="co">#686868;</span></span>
-<span id="cb10-7"><a href="#cb10-7" aria-hidden="true" tabindex="-1"></a>    text<span class="op">-</span>decoration: none<span class="op">;</span></span>
-<span id="cb10-8"><a href="#cb10-8" aria-hidden="true" tabindex="-1"></a>}</span>
-<span id="cb10-9"><a href="#cb10-9" aria-hidden="true" tabindex="-1"></a>.link:active{</span>
-<span id="cb10-10"><a href="#cb10-10" aria-hidden="true" tabindex="-1"></a>    color: black<span class="op">;</span></span>
-<span id="cb10-11"><a href="#cb10-11" aria-hidden="true" tabindex="-1"></a>    text<span class="op">-</span>decoration: none<span class="op">;</span></span>
-<span id="cb10-12"><a href="#cb10-12" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a>.link<span class="op">-</span>hover:hover{</span>
+<span id="cb10-7"><a href="#cb10-7" aria-hidden="true" tabindex="-1"></a>    color: <span class="co">#686868;</span></span>
+<span id="cb10-8"><a href="#cb10-8" aria-hidden="true" tabindex="-1"></a>    text<span class="op">-</span>decoration: none<span class="op">;</span></span>
+<span id="cb10-9"><a href="#cb10-9" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb10-10"><a href="#cb10-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-11"><a href="#cb10-11" aria-hidden="true" tabindex="-1"></a>.link<span class="op">-</span>hover:active{</span>
+<span id="cb10-12"><a href="#cb10-12" aria-hidden="true" tabindex="-1"></a>    color: black<span class="op">;</span></span>
+<span id="cb10-13"><a href="#cb10-13" aria-hidden="true" tabindex="-1"></a>    text<span class="op">-</span>decoration: none<span class="op">;</span></span>
+<span id="cb10-14"><a href="#cb10-14" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 <section id="callout-blocks" class="level3">

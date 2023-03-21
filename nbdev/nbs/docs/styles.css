@@ -37,34 +37,32 @@ div.description {
 }
 
 .link-hover{
-	color: #F0266F;
+    color: #F0266F;
     text-decoration: none;
 }
 
 .link-hover:hover{
-	color: #686868;
+    color: #686868;
     text-decoration: none;
-    
 }
+
 .link-hover:active{
-	color: black;
-    text-decoration: none;
-    
+    color: black;
+    text-decoration: none;   
 }
 
 
 .link{
-	color: #73D0FF;
+    color: #73D0FF;
     text-decoration: none;
 }
 
 .link:hover{
-	color: #686868;
+    color: #686868;
     text-decoration: none;
-    
 }
+
 .link:active{
-	color: black;
+    color: black;
     text-decoration: none;
-    
 }
