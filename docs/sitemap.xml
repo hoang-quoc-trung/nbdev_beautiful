@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://TODO.github.io/TODO/card_overview.html</loc>
-    <lastmod>2023-03-21T08:22:55.905Z</lastmod>
+    <loc>https://TODO.github.io/TODO/00_card_overview.html</loc>
+    <lastmod>2023-03-21T05:24:07.833Z</lastmod>
   </url>
   <url>
-    <loc>https://TODO.github.io/TODO/card.html</loc>
-    <lastmod>2023-03-21T08:22:57.358Z</lastmod>
+    <loc>https://TODO.github.io/TODO/01_card.html</loc>
+    <lastmod>2023-03-21T05:29:38.653Z</lastmod>
   </url>
   <url>
-    <loc>https://TODO.github.io/TODO/desk.html</loc>
-    <lastmod>2023-03-21T08:22:58.694Z</lastmod>
+    <loc>https://TODO.github.io/TODO/02_desk.html</loc>
+    <lastmod>2023-03-21T05:24:09.014Z</lastmod>
   </url>
   <url>
-    <loc>https://TODO.github.io/TODO/how_to_use_nbdev.html</loc>
-    <lastmod>2023-03-21T08:23:01.203Z</lastmod>
+    <loc>https://TODO.github.io/TODO/03_how_to_use_nbdev.html</loc>
+    <lastmod>2023-03-21T05:52:14.094Z</lastmod>
   </url>
   <url>
     <loc>https://TODO.github.io/TODO/04_directives.html</loc>
-    <lastmod>2023-03-21T08:23:03.021Z</lastmod>
+    <lastmod>2023-03-21T05:24:10.349Z</lastmod>
   </url>
   <url>
     <loc>https://TODO.github.io/TODO/05_create_page.html</loc>
-    <lastmod>2023-03-21T08:23:04.239Z</lastmod>
+    <lastmod>2023-03-21T05:24:11.098Z</lastmod>
   </url>
   <url>
     <loc>https://TODO.github.io/TODO/06_beautiful_page.html</loc>
-    <lastmod>2023-03-21T08:23:05.768Z</lastmod>
+    <lastmod>2023-03-26T08:25:15.687Z</lastmod>
   </url>
   <url>
-    <loc>https://TODO.github.io/TODO/test.html</loc>
-    <lastmod>2023-03-21T08:23:06.920Z</lastmod>
+    <loc>https://TODO.github.io/TODO/07_test.html</loc>
+    <lastmod>2023-03-21T05:32:04.648Z</lastmod>
   </url>
   <url>
     <loc>https://TODO.github.io/TODO/index.html</loc>
-    <lastmod>2023-03-21T08:23:08.105Z</lastmod>
+    <lastmod>2023-03-26T08:25:04.885Z</lastmod>
   </url>
 </urlset>
